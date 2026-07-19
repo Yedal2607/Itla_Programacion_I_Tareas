@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bqw6sgu3NyY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yedal A.S\\Desktop\\Programacion I clase\\Itla_Programacion_I_Tareas\\HomeWork 3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yedal A.S\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.9\\microsoft.netcore.app.ref.10.0.9.nupkg.sha512",
+    "C:\\Users\\Yedal A.S\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\10.0.9\\microsoft.windowsdesktop.app.ref.10.0.9.nupkg.sha512",
+    "C:\\Users\\Yedal A.S\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.9\\microsoft.aspnetcore.app.ref.10.0.9.nupkg.sha512",
+    "C:\\Users\\Yedal A.S\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\10.0.9\\microsoft.netcore.app.host.win-x64.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
